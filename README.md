@@ -95,4 +95,4 @@ Every DAX measure in the Power BI model was independently verified against panda
 
 MySQL (dimension tables) -> SQLAlchemy + PyMySQL (load/extract) -> pandas (QC, metrics) -> CSV handoff -> Power BI + DAX (dashboard)
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+<img width="1582" height="882" alt="image" src="https://github.com/user-attachments/assets/7d051529-5f67-4b06-af34-1d156338104f" />
