@@ -1,0 +1,7 @@
+product_key,product_name,category,unit_cost,unit_price
+101,Amoxicillin 500mg,Pharmaceutical,50.0,80.0
+102,Surgical Gloves Box,Surgical,300.0,450.0
+103,Paracetamol Infusion,Pharmaceutical,120.0,190.0
+104,Insulin Vial,Pharmaceutical,800.0,1200.0
+105,Surgical Sutures Pack,Surgical,450.0,700.0
+106,IV Cannula Set,Surgical,150.0,240.0
